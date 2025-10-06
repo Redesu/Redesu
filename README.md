@@ -2,7 +2,7 @@
 
 ## Full Stack Developer | QA Tester
 
-Transformo problemas em soluções através do código desde os 12 anos. Atualmente combino experiência como **Tester** com desenvolvimento full stack, criando aplicações robustas e centradas no usuário.
+Transformo problemas em soluções através do código. Atualmente combino experiência como **Tester** com desenvolvimento full stack, criando aplicações robustas e centradas no usuário.
 
 ### Stack
 
